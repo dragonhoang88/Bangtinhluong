@@ -1,0 +1,7 @@
+D:\lap trinh C#\Tinh-Luong\Tinh-Luong\obj\Debug\TinhLuong.csproj.AssemblyReference.cache
+D:\lap trinh C#\Tinh-Luong\Tinh-Luong\obj\Debug\Tinh_Luong.Form1.resources
+D:\lap trinh C#\Tinh-Luong\Tinh-Luong\obj\Debug\Tinh_Luong.Properties.Resources.resources
+D:\lap trinh C#\Tinh-Luong\Tinh-Luong\obj\Debug\TinhLuong.csproj.GenerateResource.cache
+D:\lap trinh C#\Tinh-Luong\Tinh-Luong\obj\Debug\TinhLuong.csproj.CoreCompileInputs.cache
+D:\lap trinh C#\Tinh-Luong\Tinh-Luong\obj\Debug\Tinh-Luong.exe
+D:\lap trinh C#\Tinh-Luong\Tinh-Luong\obj\Debug\Tinh-Luong.pdb
